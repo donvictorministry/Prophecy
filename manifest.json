@@ -1,0 +1,15 @@
+{
+  "name": "Prophesy Your Future",
+  "short_name": "Prophesy",
+  "description": "A 21-Day Journey of Faith, Biblical Declarations and Transformational Expectations",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1877F2",
+  "icons": [
+    { "src": "https://REPLACE-WITH-YOUR-HOSTED-URL/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "https://REPLACE-WITH-YOUR-HOSTED-URL/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
