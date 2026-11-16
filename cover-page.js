@@ -29,7 +29,7 @@
       /* words printed on the little book picture */
       spine: 'Prophesy Your Future',
       bookLine: 'A 21-DAY JOURNEY OF FAITH',
-      bookAuthor: 'REV. DR. CHRIS JOHNSON'
+      bookAuthor: 'REV. DR. DON VICTOR'
     };
     var C = {
       brand: '#1877F2', brandMid: '#0F5FCC', brandDeep: '#083A85',
