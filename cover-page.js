@@ -18,7 +18,7 @@
   try {
     /* ---------- edit the words and colours here ---------- */
     var TEXT = {
-      author: 'Rev. Dr. Chris Johnson, PhD',
+      author: 'Rev. Dr Don Victor, PhD',
       line1: 'PROPHESY YOUR',
       line2: 'FUTURE',
       tagline: 'A 21-Day Journey of Faith, Biblical Declarations and Transformational Expectations',
