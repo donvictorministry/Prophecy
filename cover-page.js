@@ -1,24 +1,10 @@
-/* cover-page.js - the cover (welcome) page of "Prophesy Your Future"
- *
- * STANDALONE: this file carries its own CSS, HTML and JavaScript.
- * The app works without it. If you delete or edit this file, the app simply
- * skips the cover and opens the access-code screen. Nothing else is affected.
- *
- * Layout, top to bottom: book picture, author pill, title, tagline, invitation,
- * BEGIN button, blue wave with the Read Online and Read Offline buttons.
- *
- * Contract with the app (the only link between them):
- *     window.CoverPage.render(containerElement, onBegin)
- * It also fires a "coverpage:begin" event on the container when a begin button is tapped.
- *   BEGIN THE JOURNEY, Read Online and Read Offline all call onBegin,
- *   so the app opens the access-code (unlock) screen.
- */
+
 (function () {
   'use strict';
   try {
-    /* ---------- edit the words and colours here ---------- */
+    
     var TEXT = {
-      author: 'Rev. Dr Don Victor, PhD',
+      author: 'Rev. Dr. Don Victor, PhD',
       line1: 'PROPHESY YOUR',
       line2: 'FUTURE',
       tagline: 'A 21-Day Journey of Faith, Biblical Declarations and Transformational Expectations',
